@@ -9,7 +9,7 @@ function Meta({title}) {
     <div>
       <Helmet>
         // <meta charSet="utf-8" />
-        <meta name="Abubakar" />
+        <meta name="Abubakar Store" />
         <title>{title}</title>
       </Helmet>
     </div>
