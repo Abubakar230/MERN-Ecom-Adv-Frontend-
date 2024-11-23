@@ -8,7 +8,8 @@ function Meta({title}) {
   return (
     <div>
       <Helmet>
-        <meta charSet="utf-8" />
+        // <meta charSet="utf-8" />
+        <meta name="Abubakar" />
         <title>{title}</title>
       </Helmet>
     </div>
